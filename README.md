@@ -11,7 +11,15 @@
     </a>
   </div>
  <br>
-   <p> I specialize in creating solutions using <b>JAVASCRIPT</b>, and various frontend frameworks/libraries and other tools like <b>REACT</b>, <b>VUE</b>, <b>NEXTJS</b>, <b>MONGODB</b>, <b>NODEJS</b> and <b>EXPRESS</b>.</p>
+   <p> As a woman in tech, I pride myself on building dynamic, user-centric solutions that transform ideas into seamless digital experiences. My expertise spans JavaScript and its ecosystem, with a focus on cutting-edge tools and frameworks like React, Vue, Next.js, and backend technologies such as Node.js, Express, and MongoDB.
+
+But more than just writing clean, efficient code, I strive to bring a sense of creativity, empathy, and collaboration to every project. I believe the best solutions are born at the intersection of technical excellence and human understanding.
+
+Each line of code is a statement of passion and determination—a reflection of what it means to challenge norms, break boundaries, and create without limits. Whether it’s developing a single-page application or crafting scalable full-stack systems, I approach every challenge with curiosity and an unwavering commitment to excellence.
+
+As a woman in programming, I’m here to prove every day that the possibilities are infinite, not just for technology but for the stories we tell through it. Together, we shape a future where innovation knows no gender, and the only limit is how far we dare to dream.
+
+</p>
 </div>
 
 <h2>👨🏻‍💻 About me</h2> 
